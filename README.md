@@ -1,2 +1,5 @@
 # 13MStudioPrivacePolicy
-The privacy policy for all 13M Studio apps and games
+The privacy policy for all 13M Studio apps and games.
+
+Link below:
+[Privacy Policy](index.html)
