@@ -1,9 +1,9 @@
 # 13MStudioPrivacePolicy
-This privacy policy applies to all [13M Studio] apps and games.
+This privacy policy applies to all [13M Studio](README.md) apps and games.
 
 ## PRIVACY POLICY MODEL FOR MOBILE APPLICATIONS
 
-This privacy policy governs your use of the software application [The Trials of Tokoyo] (“Application”) for mobile devices that was created by [13M Studio]. The Application is a puzzle casual game for smartphones. 
+This privacy policy governs your use of the software application [The Trials of Tokoyo] (“Application”) for mobile devices that was created by [13M Studio](README.md). The Application is a puzzle casual game for smartphones. 
 
 #### What information does the Application obtain and how is it used?
 
@@ -35,19 +35,19 @@ We may disclose User Provided and Automatically Collected Information:
 
 *   with our trusted services providers who work on our behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
 
-*   if [13M Studio] is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of this information, as well as any choices you may have regarding this information.
+*   if [13M Studio](README.md) is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of this information, as well as any choices you may have regarding this information.
 
 #### What are my opt-out rights?
 
-You can stop all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. You can also request to opt-out via email, at [tiago.souza.pedroso@gmail.com].
+You can stop all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. You can also request to opt-out via email, at [tiago.souza.pedroso@gmail.com](malito:tiago.souza.pedroso@gmail.com).
 
 #### **Data Retention Policy, Managing Your Information**
 
-We will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. We will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you’d like us to delete User Provided Data that you have provided via the Application, please contact us at [tiago.souza.pedroso@gmail.com] and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
+We will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. We will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you’d like us to delete User Provided Data that you have provided via the Application, please contact us at [tiago.souza.pedroso@gmail.com](malito:tiago.souza.pedroso@gmail.com) and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
 
 #### **Children**
 
-We do not use the Application to knowingly solicit data from or market to children under the age of 13\. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at [tiago.souza.pedroso@gmail.com]. We will delete such information from our files within a reasonable time.
+We do not use the Application to knowingly solicit data from or market to children under the age of 13\. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at [tiago.souza.pedroso@gmail.com](malito:tiago.souza.pedroso@gmail.com). We will delete such information from our files within a reasonable time.
 
 #### **Security**
 
@@ -63,4 +63,4 @@ By using the Application, you are consenting to our processing of your informati
 
 #### Contact us
 
-If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at [tiago.souza.pedroso@gmail.com].
+If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at [tiago.souza.pedroso@gmail.com](malito:tiago.souza.pedroso@gmail.com).
